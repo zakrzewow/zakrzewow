@@ -20,7 +20,11 @@
 ---
 
 ### 📁 Projects:
-- DWH/BI solution for stock prices analysis
+- [DWH/BI solution for stock prices analysis](https://github.com/zakrzewow/dwh-stock-prices)
+- [Meno Stats - Django project](https://github.com/zakrzewow/meno-stats)
+- [Audio analysis and processing - Streamlit app](https://github.com/zakrzewow/aipd1)
+- [Machine learning / other projects](https://github.com/zakrzewow/my-projects)
+
 
 <!--
 **zakrzewow/zakrzewow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
