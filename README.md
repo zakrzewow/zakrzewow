@@ -2,8 +2,6 @@
 
 🎓 Data Science student at the Faculty of Mathematics and Information Sciences, Warsaw University of Technology
 
-🏢 Junior Data Analyst at XTB, proficient in Python and SQL
-
 📈 Machine learning, data analysis, scripting, and data engineering
 
 ---
