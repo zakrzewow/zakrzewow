@@ -11,6 +11,7 @@
 - SQL
 - R
 - Java
+- Snowflake
 - Django
 - Streamlit
 - BigQuery
@@ -18,6 +19,8 @@
 ---
 
 ### 📁 Projects:
+- [ReModels - package for probabilistic energy price forecasting with Quantile Regression Averaging](https://github.com/zakrzewow/remodels) 
+- [Big Data project with Hadoop, Hive & Spark](https://github.com/zakrzewow/big-data-project)
 - [DWH/BI solution for stock prices analysis](https://github.com/zakrzewow/dwh-stock-prices)
 - [Meno Stats - Django project](https://github.com/zakrzewow/meno-stats)
 - [Audio analysis and processing - Streamlit app](https://github.com/zakrzewow/aipd1)
